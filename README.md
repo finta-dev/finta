@@ -1,0 +1,2 @@
+# finta
+ Sistema de tickets
